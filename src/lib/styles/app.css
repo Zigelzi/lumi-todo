@@ -1,0 +1,12 @@
+:root {
+	--primary-100: #f9f1f3;
+	--primary-500: #813749;
+	--primary-900: #1d0c11;
+
+	--white: #fff;
+}
+
+body {
+	background-color: var(--primary-900);
+	color: var(--white);
+}
